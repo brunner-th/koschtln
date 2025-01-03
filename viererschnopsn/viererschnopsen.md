@@ -54,7 +54,7 @@ Das Team welches zuerst >66 Pkte erzielt oder den letzten Stich macht gewinnt
 - Sager (aus Rufer-Team) macht alleine 66 Punkte mit 3 Stich (Trumpf zählt)
 - Ruafer kommt außa
 
-### Kontraschnapser (6 Pkte)
+### Kontraschnopser (6 Pkte)
 
 - Sager (aus Teiler-Team) macht alleine 66 Punkte mit 3 Stich (Trumpf zählt)
 - Ruafer kommt außa
@@ -91,7 +91,7 @@ Das Team welches zuerst >66 Pkte erzielt oder den letzten Stich macht gewinnt
 
 - **muss vor Spiel ausgemacht werden**
 - Sager macht **keinen Stich**
-- Rufer kommt außa
+- Sager kommt außa
 - ausmachen ob Teamspieler mitspielt oder nicht!
 - **Oane auf** geht nicht mehr! Dafür kann Rufer Karten tauschen wenn er 3 Unter bekommen hat.
 
@@ -100,11 +100,11 @@ Das Team welches zuerst >66 Pkte erzielt oder den letzten Stich macht gewinnt
 ### 20er
 
 - Spieler sagt 20er, **kommt mit Ober/König außa** und zeigt auch noch **König/Ober der gleichen Farbe**.
-Wenn der Spieler **mindestens einen Stich** im Spiel macht
+Wenn das Team **mindestens einen Stich** im Spiel macht
 - bekommt das Team zusätzliche 20 Pkte für das aktuelle Spiel.
 
 ### 40er
 
 - Spieler sagt 40er, **kommt mit Ober/König der Trumpffarbe außa** und zeigt auch noch **König/Ober der Trumpffarbe**.
-- Wenn der Spieler **mindestens einen Stich** im Spiel macht (**eventuell danach, Ausmachsache**) bekommt das Team zusätzliche 40 Pkte für das aktuelle Spiel.
+- Wenn das Team **mindestens einen Stich** im Spiel macht bekommt das Team zusätzliche 40 Pkte für das aktuelle Spiel.
 
